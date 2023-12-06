@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor - todo](https://your-solution-url.com)
-- Live Site URL: [Github Pages - todo](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-YncO989n_V)
+- Live Site URL: [Github Pages](https://jumiranda5.github.io/fm-faq-accordion/)
 
 ## Author
 
