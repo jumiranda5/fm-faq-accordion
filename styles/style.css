@@ -164,6 +164,10 @@ footer {
   background-image: url('../assets/images/icon-plus.svg');
 }
 
+.faq-question[aria-expanded="false"]:hover {
+  color: #AD28EB;
+}
+
 .faq-question {
   width: 100%;
   padding: var(--inner-padding) 3rem var(--inner-padding) 0;
